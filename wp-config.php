@@ -46,14 +46,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         '~+:EMq}goD)0xJW-;*%Q=4Ng)3YC=LtI-0B8vfL4@G-`k_2-@tv*1Z%Kb!ES[]!-');
-define('SECURE_AUTH_KEY',  '1AX*@C8@}dx5;[:Wi(>kEw)Uy#I~qW#WsxW)3yh1)3aUm,%v)-|%(&6.p@n.W@1H');
-define('LOGGED_IN_KEY',    '=us|Xe(A<DZt|UC8fxW__wM>i_r7K>4ETK;IrV9|DcYN2>Jtv]}B7zl+10Aj(3+h');
-define('NONCE_KEY',        'NtIdc-j9PV9SS<#q|dQDzGmEjGcbk:EU3aot->6/3IVF/lOB`GPr* 86M0|LnwsZ');
-define('AUTH_SALT',        'f3`*%GXE$~neohT-7wuB]92@)I8w]pUf(~0$KfcbTb9>hL<Z^_E925RW)!%9 }fZ');
-define('SECURE_AUTH_SALT', '-y9UO}oqnvjm_a+jk(+qx7NwxUg[EDDQ.eT=>Z%9rDlW]|*_os2%45=z_LD*tHc7');
-define('LOGGED_IN_SALT',   '=+&/)*[*{AiVM@uGTf12=Y~KCUT+]i(ltlT4[z@@:[L,++KG|-_R<$9m|9]+amj0');
-define('NONCE_SALT',       'rh-r@ BXqJj7N~{y~(`FT,A*2*6g+0X26p.AKa ]{Jon[v<+[M*frpQ{~3]QMlm-');
+define('AUTH_KEY',         'chumantra');
+define('SECURE_AUTH_KEY',  'chumantra');
+define('LOGGED_IN_KEY',    'chumantra');
+define('NONCE_KEY',        'chumantra');
+define('AUTH_SALT',        'chumantra');
+define('SECURE_AUTH_SALT', 'chumantra');
+define('LOGGED_IN_SALT',   'chumantra');
+define('NONCE_SALT',       'chumantra');
 
 /**#@-*/
 
